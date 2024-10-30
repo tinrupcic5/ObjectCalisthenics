@@ -1,4 +1,4 @@
-# Object Calisthenics
+# Object Calisthenics :coffee:
 Clean object-oriented code exercise
 
 ## Overview
