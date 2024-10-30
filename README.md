@@ -4,7 +4,7 @@ Clean object-oriented code exercise
 ## Overview
 Object Calisthenics is a set of 9 rules designed to help developers write cleaner, more maintainable object-oriented code. By following these guidelines, you can improve code readability, ensure better design, and enhance overall code quality.
 
-## The 9 Rules
+## The 9 Rules :pushpin:
 
 #### 1. Only One Level of Indentation per Method
 Avoid deep nesting by using techniques like early returns and method extraction. This improves readability and maintainability by clarifying the flow of logic.
